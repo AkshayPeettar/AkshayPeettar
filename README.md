@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkshayPeettar
 - 👀 I’m interested in ... Backend developing
-- 🌱 I’m currently learning ... php full stack development
+- 🌱 I’m currently learning ... MERN full stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... akshayachu175@gmail.com
 
